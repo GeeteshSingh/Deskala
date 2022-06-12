@@ -4,8 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+Used NPM as the package manager. After cloning the repository please use the command npm i or npm install To start the project use npm start
 ### `npm start`
 
 Runs the app in the development mode.\
